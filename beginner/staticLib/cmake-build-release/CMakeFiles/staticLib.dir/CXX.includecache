@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marcuswhelan/MyCourses/C++/staticLib/Cat.cpp
+Cat.h
+/Users/marcuswhelan/MyCourses/C++/staticLib/Cat.h
+iostream
+-
+
+/Users/marcuswhelan/MyCourses/C++/staticLib/Cat.h
+

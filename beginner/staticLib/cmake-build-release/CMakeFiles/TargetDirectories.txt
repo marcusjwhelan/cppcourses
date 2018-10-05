@@ -1,0 +1,3 @@
+/Users/marcuswhelan/MyCourses/C++/staticLib/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/marcuswhelan/MyCourses/C++/staticLib/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/marcuswhelan/MyCourses/C++/staticLib/cmake-build-release/CMakeFiles/staticLib.dir

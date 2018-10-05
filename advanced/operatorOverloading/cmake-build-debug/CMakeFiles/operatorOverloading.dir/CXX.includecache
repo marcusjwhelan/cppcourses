@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marcuswhelan/MyCourses/C++/advanced/operatorOverloading/Complex.cpp
+Complex.h
+/Users/marcuswhelan/MyCourses/C++/advanced/operatorOverloading/Complex.h
+
+/Users/marcuswhelan/MyCourses/C++/advanced/operatorOverloading/Complex.h
+iostream
+-
+
+/Users/marcuswhelan/MyCourses/C++/advanced/operatorOverloading/overloadingEqualityTest.cpp
+iostream
+-
+Complex.h
+/Users/marcuswhelan/MyCourses/C++/advanced/operatorOverloading/Complex.h
+

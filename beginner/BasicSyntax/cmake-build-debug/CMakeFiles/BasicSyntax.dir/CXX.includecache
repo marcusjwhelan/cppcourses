@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marcuswhelan/MyCourses/C++/BasicSyntax/Cat2.cpp
+iostream
+-
+Cat2.h
+/Users/marcuswhelan/MyCourses/C++/BasicSyntax/Cat2.h
+
+/Users/marcuswhelan/MyCourses/C++/BasicSyntax/Cat2.h
+
+/Users/marcuswhelan/MyCourses/C++/BasicSyntax/dataMembers.cpp
+Cat2.h
+/Users/marcuswhelan/MyCourses/C++/BasicSyntax/Cat2.h
+
